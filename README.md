@@ -105,6 +105,3 @@ The ignition system remains disabled until all safety checks pass.
 * Camera-based helmet detection using ML
 * Wireless communication with vehicle systems
 * Smart traffic monitoring integration
-
-
-Just tell me 👍
